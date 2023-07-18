@@ -1,5 +1,5 @@
 {
-  "name": "@manifoldco/react-select-zero",
+  "name": "react-select-zero",
   "version": "0.0.1-5",
   "description": "Zero-dependency, a11y multiselect React component",
   "author": "manifoldco",
